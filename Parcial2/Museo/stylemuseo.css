@@ -1,0 +1,107 @@
+*{
+    text-align: center;
+  }
+  body{
+    background-color: aqua;
+  }
+  h2{
+    background-color: aliceblue;
+    text-align: left;
+  }
+  .h{
+    padding-left: 25%;
+    text-align: left;
+    background-color: aliceblue;
+  }
+  .first{
+    padding: 10px;
+  }
+  .second{
+    padding: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .museo1{
+    text-align: justify;
+    border: rgb(255, 125, 3) 20px solid;
+    font-size: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+  
+    padding: 20px;
+    background-color: aliceblue;
+  }
+  .museo2{
+    text-align: justify;
+    border: orange 20px solid;
+    font-size: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding: 20px;
+    background-color: aliceblue;
+  }
+  .museo3{
+    text-align: justify;
+    border: rgb(255, 125, 3)  20px solid;
+    font-size: 25px;
+
+    padding-left: 30px;
+    padding-right: 30px;
+    padding: 20px;
+    background-color: aliceblue;
+  }
+  .museo4{
+    text-align: justify;
+    border: orange 20px solid;
+    font-size: 25px;
+
+    padding-left: 30px;
+    padding-right: 30px;
+    padding: 20px;
+    background-color: aliceblue;
+  }
+  .division{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border: 20px;
+    float: inherit;
+  }
+  .texto{
+    text-align: justify;
+    background-color: aliceblue;
+    padding-left: 20px;
+  }
+  img{
+    height: fit-content;
+    width: fit-content;
+    box-sizing: border-box;
+    padding-bottom: 0%;
+    float: auto;
+  }
+  .img1l1{
+    border: rgb(255, 125, 3) 20px solid;
+    
+    height: fit-content;
+    width: fit-content;
+    float:left;
+  }
+  .img1l2{
+    border: orange 20px solid;
+    float: left;
+    height: fit-content;
+    width: fit-content;
+
+  }
+  .img2l1{
+    border: orange 20px solid;
+    height: fit-content;
+    width: fit-content;
+    float: right;
+  }
+  .img2l2{
+    border: rgb(255, 125, 3) 20px solid;
+    float: right;
+    height: fit-content;
+    width: fit-content;
+
+  }
